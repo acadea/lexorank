@@ -15,9 +15,12 @@ which is O(n).
 LexoRank makes it O(1). All you need to do is updating the re-ordered
 row's order field.
 
+## Installation
+
+Copy Lexorank.js to your project :)
+
+
 ## Usage
-
-
 
 ```js
 
